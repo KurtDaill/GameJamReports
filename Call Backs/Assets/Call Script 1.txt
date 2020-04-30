@@ -1,0 +1,14 @@
+start/1:1/CHello?/
+Hey Man, it's Alex/1:4/COh, hot damn./CIt's been a while, hasn't it?/PYeah, sorry I've been outta touch./PThere was something I wanted to ask you.../
+How've you been?/1:4/CYou know, technically alive./PThat bad huh?/COh yeah. I'm trying not to bitch about it too much./PFair enough, anyway.../
+^
+rent/money/rent from march/the rent/my money/5:4/PI hate to shake you down,/PBut I never got the rent from before you shipped out./CShit, really?/CMy bad.../
+Rent/1:8/PSo, you wanna send a check, or?.../CUh.../CIs next month alright?/CI'm kinda in a out of work./PSure, that works./PAs long as it comes/CThanks.../CI'm really sorry, I'll get it to you as I can/
+You gotten up to much since graduating?/1:8/CI wish man.../CBack home, job search is going slow/CBut I've been keeping busy./PAnything interesting?/CYeah, actually got into a new D&D game./CDoesn't feel the same without the old gang/PAh, the bold fellowship of Duncan's garage/CNow that's a name I haven't hear in a long time.../
+^
+d&d/duncan/rpg/duncans garage/duncan's garage/5:4/CYeah, better times man.../CIt hits me every Thursday night./CThere ain't no game anymore/CAnd the gang ain't ever coming back.../
+Credits/1:1/PMade by Tiny Paladin./
+^
+End/1:2/CYou did it kid./CYou found the dialogue at the end of the game./
+Credits/1:1/PMade by Tiny Paladin./
+^
